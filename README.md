@@ -282,3 +282,5 @@ hdfs dfs -ls -R
 yarn jar /usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-*.jar pi  5 10
 
 
+this is my first commit
+
